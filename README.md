@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Brinsta
 - 👀 I’m interested in web development , web design
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on basic front end development
 - 📫 How to reach me serban.burlica11@gmail.com
 
 <!---
