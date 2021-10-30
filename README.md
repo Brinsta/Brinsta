@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brinsta
 - 👀 I’m interested in web development , web design
-- 🌱 Finished the FullStack Web Development Course (Udemy) -> HTML5, CSS3, JS, Python,  
+- 🌱 Finished the FullStack Web Development Course (Udemy) -> HTML5, CSS3, JS, Python, GIT
 - 📫 How to reach me serban.burlica11@gmail.com
 
 <!---
